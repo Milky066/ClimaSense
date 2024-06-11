@@ -56,3 +56,12 @@ dkms.conf
 build/
 sdkconfig
 sdkconfig.old
+1.6inch_Module_SSD1283A_MSP1601_SPI_V1.0
+.*/
+pytest_blink.py
+ClimaSense.code-workspace
+
+.vscode/settings.json
+/.vscode
+managed_components
+.vscode/settings.json
